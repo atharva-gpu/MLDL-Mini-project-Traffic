@@ -1,0 +1,4 @@
+*.pkl
+models/
+__pycache__/
+*.pyc
